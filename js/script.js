@@ -43,17 +43,17 @@ const translations = {
 
     exp_titulo:'Experiencia y Formación', exp_laboral:'Experiencia Laboral', edu_titulo:'Trayectoria Académica',
 
-    exp1_cargo:'Técnico de Soporte Informático', exp1_fecha:'ene. 2026 - actualidad',
+    exp1_cargo:'Técnico de Soporte Informático en prácticas', exp1_fecha:'ene. 2026 - actualidad',
     exp1_li1:'Resolución de incidencias nivel 1/2 en entorno educativo',
     exp1_li2:'Configuración y mantenimiento de equipos Windows',
     exp1_li3:'Diagnóstico de red y soporte a docentes y alumnos',
     exp1_li4:'Mantenimiento preventivo de aulas informáticas',
 
-    exp2_cargo:'Técnico de Mantenimiento Web', exp2_fecha:'may. 2024 - jun. 2024',
+    exp2_cargo:'Técnico de Mantenimiento Web en prácticas', exp2_fecha:'may. 2024 - jun. 2024',
     exp2_li1:'Mantenimiento de sitios WordPress en remoto',
     exp2_li2:'Auditoría básica de plugins y optimización de rendimiento',
 
-    exp3_cargo:'Técnico de Soporte Informático y Sistemas', exp3_fecha:'feb. 2023 - jul. 2023',
+    exp3_cargo:'Técnico de Soporte Informático y Sistemas en prácticas', exp3_fecha:'feb. 2023 - jul. 2023',
     exp3_li1:'Resolución de incidencias nivel 1/2 de hardware y software',
     exp3_li2:'Configuración de equipos y perfiles de usuario Windows',
 
@@ -115,17 +115,17 @@ const translations = {
 
     exp_titulo:'Experiència i Formació', exp_laboral:'Experiència Laboral', edu_titulo:'Trajectòria Acadèmica',
 
-    exp1_cargo:'Tècnic de Suport Informàtic', exp1_fecha:'gen. 2026 - actualitat',
+    exp1_cargo:'Tècnic de Suport Informàtic en pràctiques', exp1_fecha:'gen. 2026 - actualitat',
     exp1_li1:"Resolució d'incidències nivell 1/2 en entorn educatiu",
     exp1_li2:"Configuració i manteniment d'equips Windows",
     exp1_li3:'Diagnòstic de xarxa i suport a docents i alumnes',
     exp1_li4:"Manteniment preventiu d'aules informàtiques",
 
-    exp2_cargo:'Tècnic de Manteniment Web', exp2_fecha:'maig 2024 - juny 2024',
+    exp2_cargo:'Tècnic de Manteniment Web en pràctiques', exp2_fecha:'maig 2024 - juny 2024',
     exp2_li1:'Manteniment de llocs WordPress en remot',
     exp2_li2:'Auditoria bàsica de plugins i optimització de rendiment',
 
-    exp3_cargo:'Tècnic de Suport Informàtic i Sistemes', exp3_fecha:'febr. 2023 - jul. 2023',
+    exp3_cargo:'Tècnic de Suport Informàtic i Sistemes en pràctiques', exp3_fecha:'febr. 2023 - jul. 2023',
     exp3_li1:"Resolució d'incidències nivell 1/2 de maquinari i programari",
     exp3_li2:"Configuració d'equips i perfils d'usuari Windows",
 
@@ -187,17 +187,17 @@ const translations = {
 
     exp_titulo:'Experience & Education', exp_laboral:'Work Experience', edu_titulo:'Academic Background',
 
-    exp1_cargo:'IT Support Technician', exp1_fecha:'Jan. 2026 - present',
+    exp1_cargo:'IT Support Technician - Internship', exp1_fecha:'Jan. 2026 - present',
     exp1_li1:'Level 1/2 incident resolution in an educational environment',
     exp1_li2:'Configuration and maintenance of Windows workstations',
     exp1_li3:'Network diagnostics and support for teachers and students',
     exp1_li4:'Preventive maintenance of computer labs',
 
-    exp2_cargo:'Web Maintenance Technician', exp2_fecha:'May 2024 - Jun. 2024',
+    exp2_cargo:'Web Maintenance Technician - Internship', exp2_fecha:'May 2024 - Jun. 2024',
     exp2_li1:'Remote maintenance of WordPress websites',
     exp2_li2:'Basic plugin auditing and performance optimisation',
 
-    exp3_cargo:'IT Support & Systems Technician', exp3_fecha:'Feb. 2023 - Jul. 2023',
+    exp3_cargo:'IT Support & Systems Technician - Internship', exp3_fecha:'Feb. 2023 - Jul. 2023',
     exp3_li1:'Level 1/2 hardware and software incident resolution',
     exp3_li2:'Equipment configuration and Windows user profile management',
 
