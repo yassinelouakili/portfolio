@@ -29,7 +29,7 @@ const translations = {
     nav_inicio:'Inicio', nav_sobre:'Sobre mí', nav_exp:'Experiencia',
     nav_proy:'Proyectos', nav_cert:'Certificaciones', nav_hab:'Habilidades', nav_cont:'Contacto',
 
-    hero_role:'Técnico ASIR · Sistemas · Cloud · Ciberseguridad',
+    hero_role:'ASIR · Técnico Sistemas · Cloud · Ciberseguridad',
     hero_sub:'Finalizando ASIR en julio 2026 · Disponible desde septiembre',
     hero_cta1:'Ver proyectos', hero_cta2:'Contacto',
 
@@ -101,7 +101,7 @@ const translations = {
     nav_inicio:'Inici', nav_sobre:'Sobre mi', nav_exp:'Experiència',
     nav_proy:'Projectes', nav_cert:'Certificacions', nav_hab:'Habilitats', nav_cont:'Contacte',
 
-    hero_role:'Tècnic ASIR · Sistemes · Cloud · Ciberseguretat',
+    hero_role:'ASIX · Tècnic Sistemes · Cloud · Ciberseguretat',
     hero_sub:'Finalitzant ASIR el juliol 2026 · Disponible des del setembre',
     hero_cta1:'Veure projectes', hero_cta2:'Contacte',
 
@@ -173,7 +173,7 @@ const translations = {
     nav_inicio:'Home', nav_sobre:'About me', nav_exp:'Experience',
     nav_proy:'Projects', nav_cert:'Certifications', nav_hab:'Skills', nav_cont:'Contact',
 
-    hero_role:'ASIR Technician · Systems · Cloud · Cybersecurity',
+    hero_role:'NSA · Systems Technician · Cloud · Cybersecurity',
     hero_sub:'Finishing ASIR in July 2026 · Available from September',
     hero_cta1:'View projects', hero_cta2:'Contact',
 
@@ -201,9 +201,9 @@ const translations = {
     exp3_li1:'Level 1/2 hardware and software incident resolution',
     exp3_li2:'Equipment configuration and Windows user profile management',
 
-    edu1_nombre:'Higher Vocational Training in Network Systems Administration (ASIR)',
+    edu1_nombre:'Higher Vocational Training in Network Systems Administration (NSA)',
     edu2_nombre:'Professional Certificate: Database Administration',
-    edu3_nombre:'Vocational Training in Microcomputer Systems and Networks (SMR)',
+    edu3_nombre:'Vocational Training in Microcomputer Systems and Networks (MSN)',
 
     proy_titulo:'Projects',
     proy1_titulo:'Azure + AD Hybrid Environment',
